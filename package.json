@@ -10,6 +10,15 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1"
   },
+"dependencies": {
+  "react": "^18.x.x",
+  "react-dom": "^18.x.x",
+  "react-router-dom": "^6.x.x",
+  "firebase": "^10.x.x",
+  "react-firebase-hooks": "^5.x.x",  // ← ESSENCIAL
+  "tailwindcss": "^3.x.x",
+  ...
+},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
